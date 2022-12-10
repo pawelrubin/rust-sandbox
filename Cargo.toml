@@ -15,3 +15,6 @@ path = "src/tree.rs"
 name = "stringify"
 path = "src/stringify.rs"
 
+[[bin]]
+name = "takeuntil"
+path = "src/takeuntil.rs"
